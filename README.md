@@ -1,2 +1,1 @@
-﻿# prototipo-de-monitoreo-ambiental-dom-tico
- estamos haciendo un cambio epico 
+P1 Programa que simule una IA especializada
